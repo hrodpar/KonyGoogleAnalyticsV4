@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="PruebaAnalytics" name="PruebaAnalytics">
+    <container isflex="false" displayname="Form" id="Formsito" type="form"/>
+    <container isflex="false" displayname="Form" id="frmLogin" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>
